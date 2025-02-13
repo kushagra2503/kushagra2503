@@ -42,13 +42,14 @@
 
 # About ME 💬 :
 
-### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 20 years old Machine Learning & Artificial Intelligence Enthusiast from India.
 
 <img hight="400" width="300" alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpidnNiMGhvbjFwZnFnMnNrZDQ2MmMxNHBjcWhnaGpvcThqMHNoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J2n9GePL2H6dsqPCoV/giphy.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative AI
+-  Data Structures & Algorithms
+-  Generative AI
+-  Web Development
 
 </br>
 </br>
