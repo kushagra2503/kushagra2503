@@ -91,7 +91,7 @@
 Stay connected with me across my social channels! Follow me for updates, exclusive content, and behind-the-scenes moments. Let’s engage and share our passions, ideas, and stories—whether you're into LLMs and startups or just looking to chat, I’d love to connect with you. Click the links below to find me  and join the conversation...
 
 <a href='https://www.linkedin.com/in/kushagra2503/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com//'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://x.com/Brainfdev'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 </br>
 </a>
 <p align="left">
