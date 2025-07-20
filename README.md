@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
 <div align="center">
-<img hight="300" width="300" alt="GIF" align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXcxZWRmMmI5ZHBlMDQ5eng0ODRkdmI3Y2R5bDU5bms2aWh1b3p0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img hight="300" width="300" alt="GIF" align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ4bHkxMXV4ejU1Z2ZydDhtYTZhd3VwODN1aHcwZnUxNmk1aGMzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
  <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 </div>
 
