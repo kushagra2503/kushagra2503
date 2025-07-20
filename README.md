@@ -42,17 +42,15 @@
 
 # About ME 💬 :
 
-### - I'm 21 years old wannabe entrepreneur from India.
+### - 21 year old entrepreneur in the making, straight out of India. I'm on a mission to build something awesome.
 
 <img hight="400" width="300" alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpidnNiMGhvbjFwZnFnMnNrZDQ2MmMxNHBjcWhnaGpvcThqMHNoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J2n9GePL2H6dsqPCoV/giphy.gif">
 
-### - Learning :
--  Data Structures & Algorithms
--  Generative AI
--  Web Development
--  Machine Learning
--  Go Lang
-
+### - What I'm Cooking With:
+-   Languages: Python, JavaScript, Go Lang, Typescript, GraphDb....
+-   Fields: AI & Machine Learning, Web Development, Backend stuffs..
+-   Always Learning: Docs, Research papers .....
+  
 </br>
 </br>
 </br>
