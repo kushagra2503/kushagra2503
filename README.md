@@ -16,7 +16,7 @@
 @@   ❮\/__-__\/❯ Programming isn't about what you know @@
 @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
 @@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@ YOOOO
+@@     _/`U'\_                                         @@                          kfrjfbvjwbvjdvbsj.bd;jvsgjcv.jdvjdbvl;revcbk
 @@    ( .   . )     .----------------------------.     @@
 @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
 @@   \ |  ,  | /    '----------------------------'     @@
