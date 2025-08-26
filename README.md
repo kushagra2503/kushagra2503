@@ -42,7 +42,7 @@
 
 # About ME 💬 :
 
-### - 21 year old entrepreneur in the making, straight out of India. I'm on a mission to build something awesome.
+### - 21 year old wanna be entrepreneur,from India. Trying to build somethin cool.
 
 <img hight="400" width="300" alt="GIF" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNqd29kcDlzd3c5dGU4endlM3JneG16MW9seWhlMjkwaGthNDNwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZW9RkoNqEItptErDL6/giphy.gif">
 
