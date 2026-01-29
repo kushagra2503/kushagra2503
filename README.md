@@ -1,90 +1,13 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
-<div align="center">
-<img hight="300" width="300" alt="GIF" align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ4bHkxMXV4ejU1Z2ZydDhtYTZhd3VwODN1aHcwZnUxNmk1aGMzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
- <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
-</div>
+### Hey, I'm Kushagra
 
- <div align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@ 
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-  
-</div>
-<div align="center">
- <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
- </div>
+I'm all into Software as excites me because it’s a living system — it evolves, breaks, improves, and surprises you as real people start using it. I’m deeply curious about how things work under the hood, and the fastest way I learn is by shipping and seeing what actually happens in the wild.
 
-</br>
-</br>
-</br>
+That curiosity pulled me into building with LLMs, experimenting with intelligent agents, and shipping desktop and full-stack applications. I like moving fast, iterating in public, and turning rough ideas into real products. Along the way, I’ve worked across Python, TypeScript, JavaScript, Rust, and Go, building everything from AI systems to developer tooling.
 
+Now, I work at [Ghost](https://tryghost.ai), where we create extremely smart AI agents that works just like you do.
 
-# About ME 💬 :
-
-### - 21 year old wanna be entrepreneur,from India. Trying to build somethin cool.
-
-<img hight="400" width="300" alt="GIF" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNqd29kcDlzd3c5dGU4endlM3JneG16MW9seWhlMjkwaGthNDNwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZW9RkoNqEItptErDL6/giphy.gif">
-
-### - What I'm Cooking With:
--   Languages: Python, JavaScript, Go Lang, Typescript, GraphDb, Rust...
--   Fields: AI & Machine Learning, Web Development, Backend stuffs..
--   Always Learning: Docs, Research papers .....
-  
-</br>
-</br>
-</br>
-
-
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
-<!--🤔INTERESTTITLE-->
-<p align="center">
-<img src="https://i.imgur.com/ozEwbHs.gif">
-
-<!--🖼️🖼️INTERSTLOGOS-->
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-</h4>
-
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
+#### Contact Me :
 
 Stay connected with me across my social channels! Follow me for updates, exclusive content, and behind-the-scenes moments. Let’s engage and share our passions, ideas, and stories—whether you're into LLMs and startups or just looking to chat, I’d love to connect with you. Click the links below to find me  and join the conversation...
 
@@ -95,9 +18,7 @@ Stay connected with me across my social channels! Follow me for updates, exclusi
 
 </a>
 <p align="left">
-<img  align= "center" src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
- 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
 
 
 
