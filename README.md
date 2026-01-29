@@ -1,7 +1,7 @@
 
 ### Hey, I'm Kushagra
 
-I'm all into Software as excites me because it’s a living system — it evolves, breaks, improves, and surprises you as real people start using it. I’m deeply curious about how things work under the hood, and the fastest way I learn is by shipping and seeing what actually happens in the wild.
+I'm all into software because it excites me — it's a living system. It evolves, breaks, improves, and surprises you as real people start using it. I’m deeply curious about how things work under the hood, and the fastest way I learn is by shipping and seeing what actually happens in the wild.
 
 That curiosity pulled me into building with LLMs, experimenting with intelligent agents, and shipping desktop and full-stack applications. I like moving fast, iterating in public, and turning rough ideas into real products. Along the way, I’ve worked across Python, TypeScript, JavaScript, Rust, and Go, building everything from AI systems to developer tooling.
 
