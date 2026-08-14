@@ -5,7 +5,7 @@ I'm all into software because it excites me — it's a living system. It evolves
 
 That curiosity pulled me into building with LLMs, experimenting with intelligent agents, and shipping desktop and full-stack applications. I like moving fast, iterating in public, and turning rough ideas into real products. Along the way, I’ve worked across Python, TypeScript, JavaScript, Rust, and Go, building everything from AI systems to developer tooling.
 
-Now, I work at [Ghost](https://tryghost.ai), where we create extremely smart AI agents that works just like you do.
+Prev: work at [Ghost](https://tryghost.ai), where we create extremely smart AI agents that works just like you do.
 
 #### Contact Me :
 
